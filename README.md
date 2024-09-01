@@ -14,13 +14,13 @@ Depenencies:
 - os
 - warnings
 
-  Install the dependies above in a virtual environment, then enter it and run the program
+Install the dependies above in a virtual environment, then enter it and run the program
 
-  # Results
+# Results
 
-  Test Accuracy: 94%
-  Test Recall: 77.2%
-  Coursework Grade: 100%
+Test Accuracy: 94%
+Test Recall: 77.2%
+Coursework Grade: 100%
 
 
   
