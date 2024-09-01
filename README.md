@@ -1,6 +1,6 @@
 # Description
 
-An AI model to analyse fraudalent transactions as part of AI module at the University of Leeds. 
+An AI model that analyses fraudalent transactions as part of AI module at the University of Leeds. 
 
 The program uses a csv of 1000 transaction to train the model. It removes invalid data, splits it into training and testing, trains the model, optimises ccp variable, and finally makes predictions.
 
